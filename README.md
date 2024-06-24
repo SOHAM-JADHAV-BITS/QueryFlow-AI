@@ -1,1 +1,1 @@
-# AI_PROJECTS
+# natural_language_to_sql
